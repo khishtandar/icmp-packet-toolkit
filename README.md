@@ -20,7 +20,7 @@ This Python script provides a comprehensive toolkit for managing network firewal
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the script using `python firewall_management.py`.
+3. Run the script using `python icmp-toolkit.py`.
 4. Follow the on-screen prompts to perform firewall rule management or generate ICMP packets.
 
 ## Important Notes
