@@ -25,7 +25,7 @@ This Python script provides a comprehensive toolkit for managing network firewal
 
 ## Important Notes
 
-- Ensure that you run the script with administrative privileges (`sudo python firewall_management.py`) to execute iptables and ip6tables commands.
+- Ensure that you run the script with administrative privileges (`sudo python icmp-toolkit.py`) to execute iptables and ip6tables commands.
 - Exercise caution when adding or modifying firewall rules, as it may impact network connectivity.
 
 ## Author
