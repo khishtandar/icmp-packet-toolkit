@@ -29,8 +29,5 @@ This Python script provides a comprehensive toolkit for managing network firewal
 - Exercise caution when adding or modifying firewall rules, as it may impact network connectivity.
 
 ## Author
-## Pouya Khishtandar
-
-License
-This project is licensed under the GPLv2 License.
+Pouya Khishtandar
 
